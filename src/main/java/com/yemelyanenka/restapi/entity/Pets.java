@@ -1,4 +1,4 @@
-package com.yemelyanenka.restapi.controller.entity;
+package com.yemelyanenka.restapi.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

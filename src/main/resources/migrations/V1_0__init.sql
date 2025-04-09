@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS pets
+(
+    id SERIAL PRIMARY KEY,
+    petName TEXT NOT NULL,
+    age int NOT NULL,
+    created_at TIMESTAMP NOT NULL
+);

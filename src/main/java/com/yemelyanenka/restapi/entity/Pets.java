@@ -11,7 +11,7 @@ import lombok.Setter;
 @NoArgsConstructor
 public class Pets {
 
-    private Long id;
+    private int id;
 
     private String name;
 
